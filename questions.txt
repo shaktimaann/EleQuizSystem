@@ -1,0 +1,9 @@
+Which of the following gates are designated as universal gates?|A) OR, NOT, AND|B) NOR, NAND|C) XOR, NOR, NAND|D) AND, NAND|B
+Which Boolean law states that A + AB = A?|A) Distributive law|B) Absorption law|C) De Morgan's law|D) Associative law|B
+A group of 1s in 4 cells of a K-map is called a:|A) Pair|B) Quad|C) Octet|D) Octave|B
+What is the output of a J-K flip-flop when both inputs J and K are equal to 1?|A) Set operation|B) Reset operation|C) Toggle operation|D) Invalid state|C
+Which of the following is a combinational circuit?|A) Flip-flop|B) Counter|C) Multiplexer|D) Shift register|C
+A 3-to-8 line decoder requires how many input select lines?|A) 3|B) 4|C) 8|D) 2|A
+Which logic family provides the minimum dissipation of power?|A) TTL|B) ECL|C) CMOS|D) RTL|C
+The output of an EX-NOR gate is HIGH (1) if:|A) The inputs are unequal|B) Both inputs are different|C) The inputs are equal (both 0 or both 1)|D) Only one input is 1|C
+A decade counter skips which of the following binary states?|A) 0000 to 0011|B) 1000 to 1111|C) 1010 to 1111|D) 1111 and above|C
